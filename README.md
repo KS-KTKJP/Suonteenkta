@@ -1,0 +1,2 @@
+# Suonteenkta
+Osakaskuntien hallinnoimat vesialueet Suonteen kalatalousalueella
